@@ -2,6 +2,9 @@
 
 Visually-appealing literature review alternatives. See "[The death of the literature review and the rise of the dynamic knowledge map](https://blogs.lse.ac.uk/impactofsocialsciences/2019/05/14/the-death-of-the-literature-review-and-the-rise-of-the-dynamic-knowledge-map/)" (LSE Impact Blog) for more information. 
 
+Additional Resources
+* OpenSyllabus Explorer (https://opensyllabus.org/), and associated <br>Co-assignment Gallery, an interactive map of disciplines and related textbooks (http://galaxy.opensyllabus.org)
+
 ### CREDITS:
 
 Complexity map is by [Brian Castellani](https://www.art-sciencefactory.com/briancastellani.html)
